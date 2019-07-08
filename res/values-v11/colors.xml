@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53B7F8</color>
+    <color name="colorPrimaryDark">#1272A7</color>
+    <color name="colorAccent">#40241a</color>
+
+    <color name="macdinh">#53B7F8</color>
+    <color name="macdinhDam">#1474B8</color>
+    <color name="macdinhNhat">#ABD7FA</color>
+    <!--icon 0F8BDF-->
+    <color name="mauChuVoiBackGroundMacDinh">#FFFFFF</color>
+    <color name="mauChuVoiBackGroundMacDinhHint">#D1DDEE</color>
+    <color name="underLine">#59EBE9E9</color>
+    <color name="bg_view_normal">#81E9EDF0</color>
+    <!--bg_view_normal E8F1F7 goc - E9EDF0-->
+
+    <color name="bg_title">#D2D7E0</color>
+    <!--<color name="bg_title">#D2D7E0</color>-->
+
+
+
+    <color name="orangee">#ffaa5c</color>
+    <color name="sideDialog">#ffb571</color>
+
+    <color name="orangeDam">#830907</color>
+    <color name="sv">#a9ffc081</color>
+    <color name="tv">#fc8303</color>
+    <color name="tvv">#A9FAAE5B</color>
+
+    <color name="nendialog">#ffffff</color>
+
+
+    <!--<color name="e">#e64318df</color>-->
+    <!--<color name="e2">#a5d2ff</color>-->
+    <color name="e">#835233</color>
+    <color name="e2">#33111213</color>
+
+    <color name="v">#ff4043</color>
+    <color name="v2">#ffd3d6</color>
+
+    <color name="text">#f18a02</color>
+    <color name="text2">#474747</color>
+    <color name="nen5">#FCC29E</color>
+    <!--<color name="nen5">#33111213</color>-->
+
+    <color name="nen6">#ffb17d</color>
+    <color name="tv2">#ff8801</color>
+    <color name="nen5_2">#ffbc93</color>
+    <color name="click_color">#97FFBC93</color>
+
+
+    <color name="transparent">#00ff0000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="textnhat">#818384</color>
+    <color name="textnhat_result">#616163</color>
+
+    <color name="underlinelist">#DFDFDF</color>
+    <color name="underlinelist50">#80DFDFDF</color>
+
+
+    <color name="textnhat2">#504f4f</color>
+    <color name="nen_nhat">#f4f4f4</color>
+
+    <color name="black_blue">#2196F3</color>
+
+    <color name="green">#29c609</color>
+    <color name="green_white">#aaffab</color>
+
+
+    <color name="test">#cf1b24</color>
+    <color name="test2">#80252a</color>
+    <color name="textnhat22">#484747</color>
+    <color name="nenNhat">#F7F7F7</color>
+    <color name="background_main">#F5F4F4</color>
+    <color name="transparent_black">#8597999c</color>
+    <color name="transparent_black_dialog">#97070707</color>
+
+</resources>

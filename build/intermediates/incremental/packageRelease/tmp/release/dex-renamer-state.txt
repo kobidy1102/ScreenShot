@@ -1,0 +1,4 @@
+#Mon Jul 08 10:14:23 ICT 2019
+base.0=/Users/admin/AndroidStudioProjects/MediaProjectionDemo/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

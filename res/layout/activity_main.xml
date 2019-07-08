@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ScreenShot 1" />
+    <Button
+        android:id="@+id/startButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ScreenShot 2" />
+    <Button
+        android:id="@+id/startButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ScreenShot 3" />
+    <Button
+        android:id="@+id/startButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ScreenShot 4" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/stopButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stop_recording" />
+
+    <ImageView
+        android:background="@color/macdinh"
+        android:id="@+id/img_screenshot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+</LinearLayout>
